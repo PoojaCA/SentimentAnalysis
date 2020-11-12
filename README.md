@@ -1,2 +1,2 @@
-# TwitterSentimentAnalysisByPoojaCA
+# SentimentAnalysis
 Twitter Sentiment Analysis
